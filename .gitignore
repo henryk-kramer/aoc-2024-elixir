@@ -1,0 +1,8 @@
+# Elixir language server 
+.elixir_ls
+
+# Build files
+_build
+
+# Visual studio settings
+.vscode
